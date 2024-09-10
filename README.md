@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **TypeScript and FramerMotion**
 
-- 👨‍💻 All of my projects are available at [https://ryanjameswong.netlify.app/](https://ryanjameswong.netlify.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://ryanjameswong.netlify.app/)
 
 - 📫 How to reach me **ryanjameswong@outlook.com**
 
-- 📄 Know about my experiences [https://ryanjameswongresume.tiiny.site/](https://ryanjameswongresume.tiiny.site/)
+- 📄 Know about my experiences by viewing [my resume](https://ryanjameswongresume.tiiny.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
